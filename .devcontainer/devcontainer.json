@@ -11,7 +11,8 @@
         "GitHub.codespaces",
         "tomphilbin.gruvbox-themes",
         "xyz.local-history",
-        "ms-vscode.live-server"
+        "ms-vscode.live-server",
+        "eamodio.gitlens"
       ],
       "settings": {
         "sync.gist": "097d7ef2de1cade79be54d5cfd025129",
